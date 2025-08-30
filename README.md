@@ -1,4 +1,4 @@
-# Bastet-Discord-Bet
+# Bastet-Discord-Bot
  Discord Bot Made by NyuDaCreator--
 # 🐾 Bastet - Discord Scrim Scheduler Bot
 
