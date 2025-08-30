@@ -20,12 +20,17 @@ Bastet is a powerful scheduling assistant for Discord esports teams. She allows 
    git clone https://github.com/YOUR_USERNAME/bastet-bot.git
    cd bastet-bot
 2. Create a Virtual Environment:
+    ```bash
     python3 -m venv bastet-env
-source bastet-env/bin/activate  # On Windows: bastet-env\Scripts\activate
+    source bastet-env/bin/activate  # On Windows: bastet-env\Scripts\activate
 
 3. Install dependencies(on Powershell[Admin]):
+  ```Bash
    pip install -r requirements.txt
+```
 4. Set your bot token in the bastet.py file(It's at the bottom):
+   ```
    bot.run("YOUR_DISCORD_BOT_TOKEN")
-5. Run the bot:
+6. Run the bot:
+   ```
    Python bastetgit.py
